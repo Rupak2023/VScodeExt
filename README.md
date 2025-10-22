@@ -34,6 +34,7 @@ A powerful VSCode extension that allows you to fix code errors using multiple AI
    - **Gemini API Key**: Your Google Gemini API key from [Google AI Studio](https://aistudio.google.com/app/apikey).
    - **OpenAI API Key**: Your OpenAI API key from [OpenAI Platform](https://platform.openai.com/api-keys).
 
+
 ## Usage
 
 1. Open any code file in VSCode with errors (red squiggles).
